@@ -29,10 +29,6 @@
 
 ###
 
-<h4 align="left">💻Complete the recode of my selbot by 09/24</h4>
-
-###
-
 <h2 align="left">I use</h2>
 
 ###
